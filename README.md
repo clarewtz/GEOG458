@@ -1,2 +1,2 @@
-# GEOG458
-Course Project
+# Miscellaneous
+Try r markdown, latex etc
