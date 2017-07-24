@@ -1,0 +1,33 @@
+{
+    "accuracy": "ROOFTOP", 
+    "address": "1234 Westlake Ave N, Seattle, WA 98109, USA", 
+    "bbox": {
+        "northeast": [
+            47.63205698029151, 
+            -122.3388567197085
+        ], 
+        "southwest": [
+            47.62935901970851, 
+            -122.3415546802915
+        ]
+    }, 
+    "city": "Seattle", 
+    "confidence": 9, 
+    "country": "US", 
+    "county": "King County", 
+    "encoding": "utf-8", 
+    "housenumber": "1234", 
+    "lat": 47.63070800000001, 
+    "lng": -122.3402057, 
+    "location": "1234 Westlake Ave, Seattle", 
+    "neighborhood": "Westlake", 
+    "ok": true, 
+    "place": "ChIJBZy5sj0VkFQRT04-HN68aiU", 
+    "postal": "98109", 
+    "provider": "google", 
+    "quality": "street_address", 
+    "state": "WA", 
+    "status": "OK", 
+    "status_code": 200, 
+    "street": "Westlake Ave N"
+}
